@@ -1,4 +1,4 @@
-% Версия без использования / и mod
+% список уникальных трехзначных чисел
 generate_unique_numbers_strict(List) :-
     findall(
         Number,
